@@ -1,2 +1,2 @@
 # Modulo07
-Exercises with RegEx 
+Exercises with RegEx.
